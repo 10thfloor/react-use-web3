@@ -4,6 +4,12 @@ React hook for using the Web3 object in your DApps.<br/>
 🦊 [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 
 
+### Install:
+```bash
+npm i react-use-web3
+```
+
+
 ### Set an httpProvider url: 
 Use the default Web3 provider (Usually MetaMask):
 ```js
