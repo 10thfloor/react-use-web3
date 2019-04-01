@@ -1,8 +1,9 @@
 # react-use-web3
-React hook for using the Web3 object in your DApps. 🦊
+React hook for using the Web3 object in your DApps.<br/>
+🦊 [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 
 
-### Example: Use with `React.Context`.
+### Example: Use with `React.Context`
 
 ```js
 import React, { createContext } from 'react';
