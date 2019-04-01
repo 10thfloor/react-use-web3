@@ -26,7 +26,7 @@ Or, pass an httpProvider URL to the hook:
 
 ```js
 import React, { createContext } from 'react';
-import useWeb3 from 'use-web3';
+import useWeb3 from 'react-use-web3';
 
 export const Web3Context = createContext();
 
