@@ -1,5 +1,5 @@
 {
-  "name": "use-web3",
+  "name": "react-use-web3",
   "version": "1.0.0",
   "description": "React hook for using web3 in your React projects.",
   "main": "index.js",
@@ -13,7 +13,11 @@
   "author": "Mackenzie Kieran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/10thfloor/use-web3/issues"
+    "url": "https://github.com/10thfloor/react-use-web3/issues"
   },
-  "homepage": "https://github.com/10thfloor/use-web3#readme"
+  "homepage": "https://github.com/10thfloor/react-use-web3#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "web3": "^1.0.0-beta.51"
+  }
 }
