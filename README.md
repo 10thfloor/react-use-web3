@@ -1,9 +1,11 @@
 # react-use-web3
+
 React hook for using the Web3 object in your DApps.<br/>
 🦊 [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 
-### Set an HTTPProvider Url: 
-Use the default Web3 provider (Usually MetaMask)
+
+### Set an httpProvider url: 
+Use the default Web3 provider (Usually MetaMask):
 ```js
  const { web3, network } = useWeb3();
 ```
