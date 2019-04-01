@@ -2,8 +2,19 @@
 React hook for using the Web3 object in your DApps.<br/>
 🦊 [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 
+### Set an HTTPProvider Url: 
+Use the default Web3 provider (Usually MetaMask)
+```js
+ const { web3, network } = useWeb3();
+```
+Or, pass an httpProvider URL to the hook: 
 
-### Example: Use with `React.Context`
+```js
+ const { web3, network } = useWeb3("https://rinkeby.infura.io/<your-token>");
+```
+
+
+### Simple Example: Use with `React.Context`
 
 ```js
 import React, { createContext } from 'react';
@@ -21,3 +32,4 @@ export default ({ children }) => {
   );
 };
 ```
+
