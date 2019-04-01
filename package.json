@@ -1,0 +1,19 @@
+{
+  "name": "use-web3",
+  "version": "1.0.0",
+  "description": "React hook for using web3 in your React projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10thfloor/use-web3.git"
+  },
+  "author": "Mackenzie Kieran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10thfloor/use-web3/issues"
+  },
+  "homepage": "https://github.com/10thfloor/use-web3#readme"
+}
