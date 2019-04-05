@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10thfloor/use-web3.git"
+    "url": "git+https://github.com/10thfloor/react-use-web3.git"
   },
   "author": "Mackenzie Kieran",
   "license": "MIT",
