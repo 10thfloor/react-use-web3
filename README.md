@@ -9,9 +9,9 @@ React hook for using the Web3 object in your DApps.<br/>
 npm i react-use-web3
 ```
 
-### Ensure you have the correct `peerDependencies`
+### Ensure you have the correct `peerDependencies` in your project.
 ```json
-"peerDependencies": {
+"dependencies": {
   "react": "^16.8.6",
   "react-dom": "^16.8.6",
   "web3": "^1.0.0-beta.51"
