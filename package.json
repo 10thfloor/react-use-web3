@@ -1,6 +1,6 @@
 {
   "name": "react-use-web3",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React hook for using web3 in your React projects.",
   "main": "index.js",
   "scripts": {
