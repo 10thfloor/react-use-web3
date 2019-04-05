@@ -1,6 +1,6 @@
 {
   "name": "react-use-web3",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React hook for using web3 in your React projects.",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,9 @@
     "url": "https://github.com/10thfloor/react-use-web3/issues"
   },
   "homepage": "https://github.com/10thfloor/react-use-web3#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "web3": "^1.0.0-beta.51"
   }
 }
