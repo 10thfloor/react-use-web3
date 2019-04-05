@@ -9,6 +9,15 @@ React hook for using the Web3 object in your DApps.<br/>
 npm i react-use-web3
 ```
 
+### Ensure you have the correct `peerDependencies`
+```json
+"peerDependencies": {
+  "react": "^16.8.6",
+  "react-dom": "^16.8.6",
+  "web3": "^1.0.0-beta.51"
+}
+```
+
 
 ### Set an httpProvider url: 
 Use the default Web3 provider (Usually MetaMask):
