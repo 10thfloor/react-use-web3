@@ -17,7 +17,7 @@ const get = httpProvider => {
         .then(() => {
           resolve(web3);
         })
-        .catch(() => {
+        .catch((error) => {
           reject(error);
         });
     } else if (window.web3) {
